@@ -14,6 +14,7 @@
 		3D6B19AC230DEA65009E96C6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D6B19AA230DEA65009E96C6 /* LaunchScreen.storyboard */; };
 		3D6B19B7230DEA65009E96C6 /* SonidoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6B19B6230DEA65009E96C6 /* SonidoTests.swift */; };
 		3D6B19C2230DEA65009E96C6 /* SonidoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6B19C1230DEA65009E96C6 /* SonidoUITests.swift */; };
+		3D6B19D0230DEC81009E96C6 /* Dream More Than Love.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6B19CF230DEC81009E96C6 /* Dream More Than Love.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3D6B19BD230DEA65009E96C6 /* SonidoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SonidoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D6B19C1230DEA65009E96C6 /* SonidoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SonidoUITests.swift; sourceTree = "<group>"; };
 		3D6B19C3230DEA65009E96C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D6B19CF230DEC81009E96C6 /* Dream More Than Love.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Dream More Than Love.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		3D6B19A0230DEA62009E96C6 /* Sonido */ = {
 			isa = PBXGroup;
 			children = (
+				3D6B19CF230DEC81009E96C6 /* Dream More Than Love.mp3 */,
 				3D6B19A1230DEA62009E96C6 /* AppDelegate.swift */,
 				3D6B19A3230DEA62009E96C6 /* ViewController.swift */,
 				3D6B19A5230DEA62009E96C6 /* Main.storyboard */,
@@ -232,6 +235,7 @@
 				3D6B19AC230DEA65009E96C6 /* LaunchScreen.storyboard in Resources */,
 				3D6B19A9230DEA65009E96C6 /* Assets.xcassets in Resources */,
 				3D6B19A7230DEA62009E96C6 /* Main.storyboard in Resources */,
+				3D6B19D0230DEC81009E96C6 /* Dream More Than Love.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
